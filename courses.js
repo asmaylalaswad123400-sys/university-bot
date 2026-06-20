@@ -419,7 +419,14 @@ const courses = {
 
     },
      "Electronics Lab 1": {
-      "Lab": "https://drive.google.com/drive/folders/15xgy7lDnHt28g7MG8JFhxrX-y7d6PnH9",
+      "Lab":{
+        "Report (Homework محلولة )": "https://drive.google.com/drive/folders/1r-XPD2F074u-LzFdICGxsPLELQvfD5vY",
+        "Mid Exam":"https://drive.google.com/drive/folders/17ljbBFluvSqZEm9XMZBDAcjRTma94xfH",
+        "Final Exam":"https://drive.google.com/drive/folders/1FeQmyKcseBGeYMxGCn8_8fcLULsIt1X7",
+        "Quiz":"https://drive.google.com/drive/folders/1Jb-ct6VJL65QXWtkscFXZv6_P8_vCudH",
+        "Slide":"https://drive.google.com/drive/folders/1_LT2RmXkehJ3Dhu0SUal-5KScAusvrN7",
+        "All File":"https://drive.google.com/drive/folders/15xgy7lDnHt28g7MG8JFhxrX-y7d6PnH9",
+        },
       "Recorded Videos":{
         "Eng.Nael Dukhan":"https://youtu.be/FxJRV8wLVCE?si=cMX41TUQL5OAoHmZ",
         "Mohammed Saleh": "https://youtube.com/playlist?list=PLDG4OdepPTCGTx2U6QGsFz_pBdXkWQbp9&si=90xvkbypQiMrxYDJ",
@@ -709,8 +716,8 @@ year4: {
     },
     "Operating Systems Lab": {
       "Lab":  {
+      "Lab & Report":"https://drive.google.com/drive/folders/1Vch0_HVeoqFt8U8BNXHY1YWAwgks0xbW",
       "Project":"https://drive.google.com/drive/folders/1zd0M-EDdfYQL9d0JBh-unaWA5oqWMV6X",
-      "Lab fi;e":"https://drive.google.com/drive/folders/1Vch0_HVeoqFt8U8BNXHY1YWAwgks0xbW",
       "All files ":"https://drive.google.com/drive/folders/1y_m6s6MOnmSZwESfT9A3QpaGuBNIyLQt",
      },
       "Recorded Videos": {
@@ -791,6 +798,7 @@ year4: {
     },
     "Computer Networks Lab": {
       "Lab": {
+      "Lab & Homework ":"https://drive.google.com/drive/folders/1b_ZZBtynCpBB8_gHIYP8txINRCuPxYA_",
       "Project ":"https://drive.google.com/drive/folders/1HX8VB5MM9pYq0cXTI3SqCMcRG6VExmC5",
       "All files":"https://drive.google.com/drive/folders/1HDBXbwZ-ygrVxZVlzWs-Nxlr2yXEGm6A",
       },
@@ -816,6 +824,7 @@ year4: {
     },
     "Embedded Systems Lab": {
       "Lab": {
+      "Lab & Report":"https://drive.google.com/drive/folders/1bciWr_-tcZUHUqal78ujF8dj3xaEYg7-",
       "Project ":"https://drive.google.com/drive/folders/1NECGMiT_NRp1C0lp5Pnm9ZaA-gt-qloT",
       "All files":"https://drive.google.com/drive/folders/1MRwDP1frR0oPhcG6ReeyARCXVFYIo6nP",
     },
@@ -841,7 +850,11 @@ year4: {
       "Tips": " ما عندي خبرة بعد"
     },
     "VHDL Lab": {
-      "Lab": "https://drive.google.com/drive/folders/1ZZ3GPjkxyHG0ZubFg1EgY8o7GnIxQd3F",
+      "Lab":{
+       "Report (Homework محلولة )":"https://drive.google.com/drive/folders/1l4Zqd7rPhzb4ChKHdM5RX4R__zyO2PdE",
+       "Final Exam":"https://drive.google.com/drive/folders/1CyHZnibeGmTSHI1dWGZBeEBD0ZLe-S73",
+      "All File": "https://drive.google.com/drive/folders/1ZZ3GPjkxyHG0ZubFg1EgY8o7GnIxQd3F",
+      },
       "Recorded Videos": { 
       "Eng.Ahmed Abu Shawish":"https://youtube.com/playlist?list=PL5oMcvTwk7_G-tTcpVaPtalcSsBxCYWH1&si=DKFAZ7ATU-2RVXYR",
       "Eng.Rasha Sammour  ":"https://youtube.com/playlist?list=PLq5FW85cJhv6R6Fs9mRv6lGSWC2583Xw1&feature=shared",
