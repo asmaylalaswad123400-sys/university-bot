@@ -589,6 +589,7 @@ const courses = {
     },
       "Book & Solutions": "https://drive.google.com/drive/folders/1AwD72iRKmMC4s3zHh7soIlkOY3F8d5tT",
       "Lectures": {
+      "Dr. Emad Shaheen":"https://youtube.com/playlist?list=PLsnXBl0d_7jslgsN2zO2CiRb7PnsQlYSG&si=NlqDq7J-ZFQohMPn",
       "Dr. Wissam Ashour":"https://youtube.com/playlist?list=PL9czOgVE8oVd0uexbs75zZcVxa6YwwJVt&feature=shared",
       "Dr. Mamoun Saleh":"https://youtube.com/playlist?list=PL1x2XmA5tzRaKRie4_Jb02ln3QcX4QM8M&si=W6P1ZUOCIfs6fE4d",
       "Dr. Mohamed Mekki":"https://youtube.com/playlist?list=PL9fwy3NUQKwYwa_mCwGHM-DvI0RlVg1yN&feature=shared",
@@ -676,7 +677,7 @@ const courses = {
     },
     "Linear control systems practical": {
       "Lab": {
-
+      "Exam":"https://drive.google.com/drive/folders/1DJCFvLU4O0GFwod3FASInghK3vNOZxB_",
       "Homework":"https://drive.google.com/drive/folders/14dR7MJQJmwa5vsmb-ZEpS_62TVniE3Wa",
       "Report":"https://drive.google.com/drive/folders/1oB_B1HjeMR5TRHkZXmJ0PRQvZon_QZ3H",
       "All files ":"https://drive.google.com/drive/folders/1lfH2tq9iRWxVtn8B1g50bV9G1WV5zT1L",
