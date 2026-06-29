@@ -420,7 +420,7 @@ const courses = {
     },
      "Electronics Lab 1": {
       "Lab":{
-        "Report (Homework محلولة )": "https://drive.google.com/drive/folders/1r-XPD2F074u-LzFdICGxsPLELQvfD5vY",
+        "Report (Homeworkمحلولة )": "https://drive.google.com/drive/folders/1r-XPD2F074u-LzFdICGxsPLELQvfD5vY",
         "Mid Exam":"https://drive.google.com/drive/folders/17ljbBFluvSqZEm9XMZBDAcjRTma94xfH",
         "Final Exam":"https://drive.google.com/drive/folders/1FeQmyKcseBGeYMxGCn8_8fcLULsIt1X7",
         "Quiz":"https://drive.google.com/drive/folders/1Jb-ct6VJL65QXWtkscFXZv6_P8_vCudH",
