@@ -794,7 +794,7 @@ year4: {
      },
       "Discussion & Problems & Problems solution": "https://drive.google.com/drive/folders/1G5ZxiBvhosuCSy1rupWpiqQEcM83RqE6",
       "Quiz & Exams & Homework": "https://drive.google.com/drive/folders/1BDLTlWA9LBf6IuCmfEy9EioHS604pFDe",
-      "Tips": "مادة سهلة وبتعتمد على الاتصالات"
+      "Tips": "مادة سهلة وبتعتمد على الاتصالات بدها مجهود شوي "
     },
     "Computer Networks Lab": {
       "Lab": {
@@ -820,7 +820,7 @@ year4: {
      },
       "Discussion & Problems & Problems solution": "https://drive.google.com/drive/folders/1Jv2_87dN99FNNTvxgq3lQIZpgIVR8uJ9",
       "Quiz & Exams & Homework": "https://drive.google.com/drive/folders/1I72ucHKhXKx9vufUX3vY9V0qsWSI_pz3",
-      "Tips": "لما اخلصها بعطي النصيحة"
+      "Tips": "مادة كويسة ليست بهذه الصعوبة"
     },
     "Embedded Systems Lab": {
       "Lab": {
@@ -832,7 +832,7 @@ year4: {
       "Eng.Anas baba":"https://youtube.com/playlist?list=PL3Lm1Dh_YDhL202-8ChiftsuiP84vBpdX&si=ZBUsp8UWFTT3r19Z",
       "Eng. Mohammed Almadhoun":"https://youtube.com/playlist?list=PLq5FW85cJhv4WZpa4VydMSqcNm38xGBhf&feature=shared",
     },
-      "Tips": "تطبيق عملي"
+      "Tips": "تطبيق عملي لمفاهيم المادة النظرية"
     },
     "VHDL": {
       "Slides & Chapters": {
@@ -848,7 +848,7 @@ year4: {
     },
       "Discussion & Problems & Problems solution": "https://drive.google.com/drive/folders/1X1aZY9WQAXRxQjJ2qrVjZRdzJF1c5Nrc",
       "Quiz & Exams & Homework": "https://drive.google.com/drive/folders/1Vc7q5vaBfSH6aJrRK8ZnXG9T3KEPBiTl",
-      "Tips": " ما عندي خبرة بعد"
+      "Tips": "مادة سهلة بتعتمد على فهمك لمادة اللوجيك 1و2 عشان تتعامل صح مع الكود"
     },
     "VHDL Lab": {
       "Lab":{
@@ -878,7 +878,7 @@ year4: {
      },
       "Discussion & Problems & Problems solution": "https://drive.google.com/drive/folders/1P6Wwg0ooB5oZGn0oPELEj_CLOB0VraZq",
       "Quiz & Exams & Homework": "https://drive.google.com/drive/folders/1P5gtzyUtGBcqfqTRc6wCXPZctcQ-2xBF",
-      "Tips": "برضه لسى ما خلصتها"
+      "Tips": "انجز المشروع اختار تيم يشتغل معك للاخر والمادة النظرية حتنسال على مفاهيمها  في مشروعكم"
     }
   }
 },
