@@ -840,10 +840,11 @@ year4: {
       },
       "Book & Solutions": "https://drive.google.com/drive/folders/1TLMCsvRBFzFUukK5tjsPVu6ecFzJCu_l",
       "Lectures": {
+      "Dr. Ruba Salama الفيديوهات كاملة موزعة داخل الملف الدكتورة":"https://drive.google.com/drive/folders/1mU7bqvhXIzsjaOLOhK66wAflBe5s6moM",
       "Dr. Ibrahim Abu Heiba":"https://youtube.com/playlist?list=PL9fwy3NUQKwZxV6lHjK-ShPlZD0H8baax&feature=shared",
       "VHDL course":"https://youtube.com/playlist?list=PLM64jSCxdKfXCjmu0QXL2NbhG2xiFPeug&feature=shared",
       "Dr. Ruba Salama VHDL Ch(6) ":"https://youtube.com/playlist?list=PLD0Lm3-uSQeqOoEH-fye718kyGPXAwfr4&feature=shared",
-      "Dr. Ruba Salama الفيديهات موزعة بقناة الدكتورة":"https://youtu.be/N541s2N1xn0?si=A9DSqyf_FgiJUZ2V"
+   
     },
       "Discussion & Problems & Problems solution": "https://drive.google.com/drive/folders/1X1aZY9WQAXRxQjJ2qrVjZRdzJF1c5Nrc",
       "Quiz & Exams & Homework": "https://drive.google.com/drive/folders/1Vc7q5vaBfSH6aJrRK8ZnXG9T3KEPBiTl",
