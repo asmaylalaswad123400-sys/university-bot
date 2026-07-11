@@ -959,13 +959,36 @@ year5: {
     }
   },
   semester2: {
-    "Security In Computer Systems": {
-      "Lab": "https://drive.google.com/drive/folders/1i4njOu8R0sNNq8b-JBVVWPbJEjpOQb7O",
-      "Recorded Videos": "https://www.youtube.com/playlist?list=PLJGg4x6CCiDT14V0C-4Jp1tO6LASSr2fI", 
-      "Tips":"الفهم الجيد للمحاضرات"
-    }   
-  }
-} 
+     "Security In Computer Systems": {
+      "Slides": "https://drive.google.com/drive/folders/1y3uKwBZ5QrKqfPrGaooAy0Qd4_DEySsh",
+      "Book & Solutions": "https://drive.google.com/drive/folders/1i4njOu8R0sNNq8b-JBVVWPbJEjpOQb7O",
+      "Lectures":{
+      "Dr. Ahmed Abu Dabousa":"https://youtube.com/playlist?list=PLJGg4x6CCiDT14V0C-4Jp1tO6LASSr2fI&si=KLoxpc0dghdRtcWr",
+      },
+      "Chapters":"https://drive.google.com/drive/folders/1y3uKwBZ5QrKqfPrGaooAy0Qd4_DEySsh",
+      "Discussion & Problems & Problems solution":"https://drive.google.com/drive/folders/1PYxjlQf10eOLDFpyqZ-sdlCAGBvG83zL",
+      "Quiz & Exams & Homework":"https://drive.google.com/drive/folders/1E2D6t5wOgzgjZLJCtav0yFwypD2w6VIo",
+      "Tips": "الدراسة الجيدة للسلايدات"
+    },
+      "Distributed and parallel computerization": {
+      "Lab":{
+      "All files":"https://drive.google.com/drive/folders/18nh8ukbC3uBgmjrTxy5gM7TFirm1N6Ou",
+     },
+      "Recorded Videos": "https://drive.google.com/drive/folders/18nh8ukbC3uBgmjrTxy5gM7TFirm1N6Ou",
+      "Tips": "المادة عبارة عن مناقشات ومشروع ما في فيديهات شرح"
+    },
+
+     "Renewable energy systems Lab": {
+      "Lab":{
+      "All files":"https://drive.google.com/drive/folders/1_Lyhkw6o6NW6MZR0VdakIrQ4w5X6Srr3",
+     },
+      "Recorded Videos": "https://youtube.com/playlist?list=PLg9pU3bzWXtCqvO3YDttQgP-6-ooLkZMK&si=PCk5jUXkX7LvaVml",
+      "Tips": "معمل بسيط عبارة عن شرح للخلايا الشمسية والطاقات المتجددة"
+    }
+
+}
+
+}, 
 
 };
 
