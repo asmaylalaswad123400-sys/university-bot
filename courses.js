@@ -145,6 +145,7 @@ const courses = {
         "Book & Solutions": "https://drive.google.com/drive/folders/1SsVupb7weX2vcZ8cVnA-6H0780BmjnRu",
         "Lectures":{
           "Dr. Mohammed Al-Hanjouri":"https://youtube.com/playlist?list=PL9fwy3NUQKwZCtV6OqEUmd6H6-1a4kV2q&feature=shared",
+          "Dr. Mohammed Al-Hanjouri (مادة اساسيات البرمجة بايثون) ":"https://youtube.com/playlist?list=PL_draEscA9SHGidUYq0f620wUKvIlIvaf&si=uw8v04i4O2biuc-2",
           "Dr. Mohammed Al-Sir":"https://youtube.com/playlist?list=PLq0KGCI4fRSOV0xfajQeJOXteyqnfavGV&feature=shared",
          },
           
@@ -255,6 +256,7 @@ const courses = {
         "Dr. Ayad Alagha":"https://youtube.com/playlist?list=PL9fwy3NUQKwY0C3IW_K2YLh0CsbvHZGxH&feature=shared",
         "Dr. Ayman Maliha":"https://youtube.com/playlist?list=PLDG4OdepPTCGxor__T0wdvyME7d2r3ssR&si=X9K8M0KavEmi1qIY",
         "Dr. Rubah salama":"https://www.youtube.com/playlist?list=PLluzYl4fG9JbKrrlMEYQB11M8xKxsGqZA",
+        "Dr. Rubah salama (C++)":"https://youtube.com/playlist?list=PLluzYl4fG9JbVDRjSilEtG2wg_Oq5iDJA&si=Udgni1tvgT37G1Z0",
          },
       "Discussion & Problems & Problems solution": "https://drive.google.com/drive/folders/13am7B6TSJGMoNLgd4kDVVpOjVReT_QDR",
       "Quiz & Exams & Homework": "https://drive.google.com/drive/folders/12Uib4yWveUOx8ERirBP2KuaHiI6EEsQX",
@@ -840,6 +842,7 @@ year4: {
       },
       "Book & Solutions": "https://drive.google.com/drive/folders/1TLMCsvRBFzFUukK5tjsPVu6ecFzJCu_l",
       "Lectures": {
+      "Dr. Ruba Salama الفيديوهات كاملة على اليوتيوب ":"https://youtube.com/playlist?list=PLH8CfyVqJJkOBWCv1sMktaqhYMcqF3XU1&si=t4q0L7yXYS-JPdAL",
       "Dr. Ruba Salama الفيديوهات كاملة موزعة داخل الملف الدكتورة":"https://drive.google.com/drive/folders/1mU7bqvhXIzsjaOLOhK66wAflBe5s6moM",
       "Dr. Ibrahim Abu Heiba":"https://youtube.com/playlist?list=PL9fwy3NUQKwZxV6lHjK-ShPlZD0H8baax&feature=shared",
       "VHDL course":"https://youtube.com/playlist?list=PLM64jSCxdKfXCjmu0QXL2NbhG2xiFPeug&feature=shared",
@@ -897,6 +900,11 @@ year5: {
       "Lab": "https://drive.google.com/drive/folders/1AnrCTffG_cgDnPUhA1ycK2oDHxR7RQoj",
       "Recorded Videos": "https://www.youtube.com/playlist?list=PLoxxbQaXjEPiFy7_CE3t7zPbLAENAVUXw",
       "Tips": "طبق كل اشي ي صديقي "
+    },
+    "Digital System Design with SystemVerilog (An alternative course to field training)": {
+      "Lab": "https://drive.google.com/drive/folders/10ZgBtY4WWsAouaJcuDyZeno0lS-6Al_-",
+      "Recorded Videos": "https://youtube.com/playlist?list=PLKzJ_un9PrOw&si=uXBK8UqjvNLR3zlc",
+      "Tips": "مساق تم اقتراحه كمساق بديل للتدريب الميداني"
     },
     "Network Security": {
       "Slides": "https://drive.google.com/drive/folders/1fQuOOB3NdyJ_Cya2NuJFGent8C5bOxh6",
@@ -969,6 +977,16 @@ year5: {
       "Discussion & Problems & Problems solution":"https://drive.google.com/drive/folders/1PYxjlQf10eOLDFpyqZ-sdlCAGBvG83zL",
       "Quiz & Exams & Homework":"https://drive.google.com/drive/folders/1E2D6t5wOgzgjZLJCtav0yFwypD2w6VIo",
       "Tips": "الدراسة الجيدة للسلايدات"
+    },
+     "Selected Topics Material": {
+      "Lab":{
+      "All files":"https://drive.google.com/drive/folders/15l-jQXs8CnKEduJwcHvn_kXynKqpN7-6",
+     },
+     "Recorded Videos":{ 
+      "Dr.Ahmed Abu Dabousa":"https://youtu.be/aeDuSFXuNQE",
+      "Dr. Fadi Al-Nahal":"https://www.youtube.com/watch?v=s8u9cYmh4sc&list=PLzQUEIMP1EpRI-vOgqEgniDn1YP20swsb",
+     },
+      "Tips": "المادة عبارة عن مواضيع يختارها الدكتور ويشرحها تتغير كل سنة "
     },
       "Distributed and parallel computerization": {
       "Lab":{
