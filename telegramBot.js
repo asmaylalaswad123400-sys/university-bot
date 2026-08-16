@@ -62,7 +62,7 @@ function showMainMenu(chatId, name = "طالب") {
   bot.sendMessage(chatId, "مرحباً " + name + "!\nاختر من القائمة التالية:", {
     reply_markup: {
       inline_keyboard: [
-        [{ text: "🏛️ متطلبات الجامعة العامة", callback_data: "show_uni_reqs" }], // يظهر فوق زر السنوات مباشرة
+        [{ text: "🏛️ متطلبات الجامعة الاسلامية", callback_data: "show_uni_reqs" }], // يظهر فوق زر السنوات مباشرة
         [{ text: "📚 عرض كل السنوات", callback_data: "show_years" }],
         [{ text: "🧪 روابط تنزيل برامج المختبرات للمواد ", callback_data: "open_lab_programs" }],
         [{ text: "📊 احسب معدلك الفصلي والتراكمي", callback_data: "gpa_file" }],

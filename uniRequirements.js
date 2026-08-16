@@ -10,7 +10,7 @@ const uniRequirements = {
   },
   "قرآن كريم 3": {
     drive: "https://drive.google.com/drive/folders/1mbv0_YExiI8tmKql3maUlKp7epI3nzUs",
-    youtube: "https://youtube.com/playlist?list=PL9fwy3NUQKZxUrBRx-jdRmTIoerOH1po&si=dTzrMPVGz2Zh1pEq"
+    youtube: "https://youtube.com/playlist?list=PL9fwy3NUQKwZxUrBRx-jdRmTIoerOH1po&si=u1xhzrs4NQnpOkVM"
   },
   "قرآن كريم 4": {
     drive: "https://drive.google.com/drive/folders/1l3uJD1CWQLoys53cY9ZG3Y51MhUIfODa",
