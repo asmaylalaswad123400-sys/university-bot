@@ -11,7 +11,7 @@ const bot = new TelegramBot(token, { polling: true });
 const userState = {};
 const processedCallbacks = new Set();
 
-const ADMIN_ID = 5687891184;
+const ADMIN_ID = 5687891184; // ادمن
 
 require("./data/rating")(bot, userState);
 const utils = require("./data/utils");
